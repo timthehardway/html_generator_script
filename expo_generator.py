@@ -1,3 +1,5 @@
+# (NL) januari 2022
+#
 # Kunst en Co Uden virtuele expositie HTML generator
 #
 # Op basis van een map met afbeeldingen en informatie 
@@ -6,6 +8,7 @@
 # Het script maakt gebruik van de volgende bestanden:
 # - expo_template_top.html
 # - expo_template_bottom.html
+# - aparte map met afbeeldingen.
 
 import os
 
